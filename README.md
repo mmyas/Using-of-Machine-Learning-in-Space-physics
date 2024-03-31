@@ -3,16 +3,16 @@ Machine learning is a field of study in artificial intelligence concerned with t
 
 Here I've applied ML to solve various astronomical problems, Please refer to indivisual directory for detailed ML applications in Astrophysics
 
-# Deep learning model for ship detection from satellite image
+1.Deep learning model for ship detection from satellite image
 
-# Deep learning model for solar panel detection
+2.Deep learning model for solar panel detection
 
-# ML Exoplanet detection using transit photometry
+3.ML Exoplanet detection using transit photometry
 
-# ML algorithm to predict stars galaxies and quasars
+4.ML algorithm to predict stars galaxies and quasars
 
-# ML model for sunspot detection
+5.ML model for sunspot detection
 
-# Solar power potential mapping
+6.Solar power potential mapping
 
-# Deep learning model to identify fish species
+7.Deep learning model to identify fish species
